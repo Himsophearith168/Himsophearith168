@@ -26,7 +26,7 @@ I enjoy solving technical problems, exploring modern technologies, and continuou
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,php,python" />
+  <img src="https://skillicons.dev/icons?i=js,java,php" />
 </p>
 
 - JavaScrip
@@ -34,16 +34,21 @@ I enjoy solving technical problems, exploring modern technologies, and continuou
 - PHP
 
 ### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,vue,angular,bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,vue,inertia,bootstrap,tailwind" />
 </p>
 
-- HTML5 / CSS3
-- Vue.js
-- Inertia Js
-- Bootstrap
-- Tailwind CSS
-- Responsive Web Design
+HTML5 / CSS3 – Building structured and styled web pages.
+
+Vue.js – Developing interactive and reusable UI components.
+
+Inertia.js – Connecting frontend applications with backend frameworks.
+
+Bootstrap – Building responsive layouts and UI components.
+
+Tailwind CSS – Creating modern interfaces using utility-first CSS.
+
+Responsive Web Design – Developing websites for desktop, tablet, and mobile devices.
 
 ### Backend Development
 <p>
@@ -59,7 +64,7 @@ I enjoy solving technical problems, exploring modern technologies, and continuou
 
 ### Database Management
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 - MySQL
@@ -156,7 +161,7 @@ Some of the projects and development areas I work on:
 
 - 📧 Email: himsophearith44@gmail.com
 - 💻 GitHub: https://github.com/Himsophearith168
-- 🔗 Portfolio: https://my-portfolio-indol-nu-17.vercel.app/](https://my-portfolio-indol-nu-17.vercel.app
+- 🔗 Portfolio: https://my-portfolio-indol-nu-17.vercel.app
 
 ---
 
